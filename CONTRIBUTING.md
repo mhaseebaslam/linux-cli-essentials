@@ -1,6 +1,6 @@
-# 🌟 Contributing to the Linux CLI Essentials
+# 🌟 Contributing to the Ubuntu CLI Guide
 
-Hi there! 👋 Thanks for your interest in contributing to the **Linux CLI Essentials**. I’m excited to have you here and can’t wait to see what awesome ideas you bring to the table! 💡. Here’s a simple guide to help you get started with contributing to this project.
+Hi there! 👋 Thanks for your interest in contributing to this guide. I’m excited to have you here and can’t wait to see what awesome ideas you bring to the table! 💡. Here’s a simple guide to help you get started with contributing to this project.
 
 ## 🤔 How Can You Contribute?
 Whether you’re a beginner or an expert, your contributions are welcome! Here are some ways you can help:

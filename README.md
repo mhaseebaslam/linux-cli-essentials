@@ -35,7 +35,7 @@ The Linux command line is a powerful tool for developers, sysadmins, and tech en
 - And so much more!
 
 ## 🤝 Contributing
-We love contributions! Whether it’s fixing a typo, adding a command, or sharing feedback, your input is valuable. Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get involved.
+I love contributions! Whether it’s fixing a typo, adding a command, or sharing feedback, your input is valuable. Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get involved.
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE). You’re free to use, modify, and share it as you like. Spread the Linux love! ❤️

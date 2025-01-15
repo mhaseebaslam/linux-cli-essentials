@@ -1,6 +1,6 @@
 # LXD Commands
 
-LXD is a modern, secure, and powerful tool that provides a unified experience for running and managing containers or virtual machines. Visit [Canonical LXD](https://canonical.com/lxd) for more information.
+LXD is a modern, secure, and powerful tool that provides a unified experience for running and managing containers or virtual machines. Visit [Canonical LXD](https://canonical.com/lxd){:target="_blank"} for more information.
 
 ## Initialization
 

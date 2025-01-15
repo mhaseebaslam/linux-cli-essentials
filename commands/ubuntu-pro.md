@@ -1,6 +1,6 @@
 # Ubuntu Pro Commands
 
-Ubuntu Pro delivers 10 years of expanded security coverage on top of Ubuntu’s Long Term Support (LTS) commitment in addition to management and compliance tooling. Visit <a href="https://ubuntu.com/pro" target="_blank">Ubuntu Pro</a> to register for free on up to five machines.
+Ubuntu Pro delivers 10 years of expanded security coverage on top of Ubuntu’s Long Term Support (LTS) commitment in addition to management and compliance tooling. Visit [Ubuntu Pro](https://ubuntu.com/pro) to register for free on up to five machines.
 
 ## Activating Ubuntu Pro
 
